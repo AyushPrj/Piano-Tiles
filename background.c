@@ -1,3 +1,4 @@
+// Background image of the game made using GIMP
 const struct {
   unsigned int width;
   unsigned int height;
